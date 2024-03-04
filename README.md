@@ -1,4 +1,4 @@
-## English ##
+## 영어 (English) ##
 This is part of the source code used for the development of a website for growing plants, a project undertaken in the second semester of 2022 (Frontend part).  
 The webpage was created using HTML and CSS in Visual Studio Code, and the web app was developed using Java in Android Studio.
 
